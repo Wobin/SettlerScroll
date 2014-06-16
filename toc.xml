@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Wobin" APIVersion="8" Name="SettlerScroll" Description="QOL to add mousewheel to the Settler popup">    
+	<Script Name="Libs\GeminiAddon-1.0\GeminiAddon.lua"/>	
+	<Script Name="Libs\GeminiHook-1.0\GeminiHook-1.0.lua"/>
+	<Script Name="Libs\GeminiGUI-1.0\GeminiGUI.lua"/>
+	<Script Name="SettlerScroll.lua"/>
+</Addon>
